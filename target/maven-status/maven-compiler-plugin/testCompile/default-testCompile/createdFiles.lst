@@ -1,0 +1,4 @@
+com\techpath\testcases\HomePage.class
+com\techpath\utilities\ScreenShotTaker.class
+com\techpath\testcases\LoginTest.class
+com\techpath\utilities\ConfigReader.class

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="4" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-09-07T13:19:03Z" name="Default suite" finished-at="2019-09-07T13:19:38Z" duration-ms="35008">
+    <groups>
+    </groups>
+    <test started-at="2019-09-07T13:19:03Z" name="Default test" finished-at="2019-09-07T13:19:38Z" duration-ms="35008">
+      <class name="com.techpath.testcases.HomePage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.techpath.testcases.HomePage@7fc229ab]" started-at="2019-09-07T13:19:03Z" name="setup" finished-at="2019-09-07T13:19:17Z" duration-ms="13597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test3()[pri:0, instance:com.techpath.testcases.HomePage@7fc229ab]" started-at="2019-09-07T13:19:17Z" name="test3" finished-at="2019-09-07T13:19:17Z" duration-ms="661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.techpath.testcases.HomePage@7fc229ab]" started-at="2019-09-07T13:19:17Z" name="tearDown" finished-at="2019-09-07T13:19:18Z" duration-ms="859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.techpath.testcases.HomePage -->
+      <class name="com.techpath.testcases.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.techpath.testcases.LoginTest@2cbb3d47]" started-at="2019-09-07T13:19:18Z" name="setup" finished-at="2019-09-07T13:19:30Z" duration-ms="11576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login()[pri:0, instance:com.techpath.testcases.LoginTest@2cbb3d47]" started-at="2019-09-07T13:19:30Z" name="Login" finished-at="2019-09-07T13:19:37Z" duration-ms="7236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.techpath.testcases.LoginTest@2cbb3d47]" started-at="2019-09-07T13:19:37Z" name="tearDown" finished-at="2019-09-07T13:19:38Z" duration-ms="1024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.techpath.testcases.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

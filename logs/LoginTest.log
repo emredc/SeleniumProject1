@@ -1,0 +1,81 @@
+2019-09-01 14:07:44 INFO  HomePage:37 - The website URL is working
+2019-09-01 14:07:50 INFO  HomePage:53 - Macbook image is clicked
+2019-09-01 14:07:50 INFO  HomePage:59 - Added wish list
+2019-09-01 14:07:51 INFO  HomePage:65 - Clicked wish list
+2019-09-01 14:08:57 INFO  HomePage:37 - The website URL is working
+2019-09-01 14:09:03 INFO  HomePage:53 - Macbook image is clicked
+2019-09-01 14:09:03 INFO  HomePage:59 - Added wish list
+2019-09-01 14:09:03 INFO  HomePage:65 - Clicked wish list
+2019-09-01 14:09:04 INFO  HomePage:72 - Username is inserted
+2019-09-01 14:11:07 INFO  HomePage:37 - The website URL is working
+2019-09-01 14:11:32 INFO  HomePage:93 - PC text is clickable
+2019-09-01 14:11:46 INFO  HomePage:37 - The website URL is working
+2019-09-01 14:12:16 INFO  HomePage:93 - PC text is clickable
+2019-09-01 14:14:24 INFO  HomePage:37 - The website URL is working
+2019-09-01 14:14:30 INFO  HomePage:53 - Macbook image is clicked
+2019-09-01 14:14:30 INFO  HomePage:59 - Added wish list
+2019-09-01 14:14:30 INFO  HomePage:65 - Clicked wish list
+2019-09-01 14:14:31 INFO  HomePage:72 - Username is inserted
+2019-09-01 14:16:10 INFO  HomePage:38 - The website URL is working
+2019-09-01 14:16:17 INFO  HomePage:54 - Macbook image is clicked
+2019-09-01 14:16:17 INFO  HomePage:60 - Added wish list
+2019-09-01 14:16:17 INFO  HomePage:66 - Clicked wish list
+2019-09-01 14:16:18 INFO  HomePage:73 - Username is inserted
+2019-09-01 14:16:31 INFO  HomePage:38 - The website URL is working
+2019-09-01 14:16:52 INFO  HomePage:94 - PC text is clickable
+2019-09-01 14:19:35 INFO  HomePage:38 - The website URL is working
+2019-09-01 14:19:41 INFO  HomePage:54 - Macbook image is clicked
+2019-09-01 14:19:41 INFO  HomePage:60 - Added wish list
+2019-09-01 14:19:42 INFO  HomePage:66 - Clicked wish list
+2019-09-01 14:19:42 INFO  HomePage:73 - Username is inserted
+2019-09-01 14:19:55 INFO  HomePage:38 - The website URL is working
+2019-09-01 14:20:06 INFO  HomePage:95 - PC text is clickable
+2019-09-01 14:22:16 INFO  HomePage:38 - The website URL is working
+2019-09-01 14:22:22 INFO  HomePage:54 - Macbook image is clicked
+2019-09-01 14:22:23 INFO  HomePage:60 - Added wish list
+2019-09-01 14:22:23 INFO  HomePage:66 - Clicked wish list
+2019-09-01 14:22:23 INFO  HomePage:73 - Username is inserted
+2019-09-01 14:22:43 INFO  HomePage:38 - The website URL is working
+2019-09-01 14:22:48 INFO  HomePage:98 - PC text is clickable
+2019-09-01 14:24:11 INFO  HomePage:38 - The website URL is working
+2019-09-01 14:24:17 INFO  HomePage:54 - Macbook image is clicked
+2019-09-01 14:24:18 INFO  HomePage:60 - Added wish list
+2019-09-01 14:24:18 INFO  HomePage:66 - Clicked wish list
+2019-09-01 14:24:18 INFO  HomePage:73 - Username is inserted
+2019-09-01 14:24:32 INFO  HomePage:38 - The website URL is working
+2019-09-01 14:24:37 INFO  HomePage:98 - PC text is clickable
+2019-09-01 14:33:43 INFO  HomePage:38 - The website URL is working
+2019-09-01 14:33:48 INFO  HomePage:98 - PC text is clickable
+2019-09-01 14:33:55 INFO  HomePage:38 - The website URL is working
+2019-09-01 14:35:18 INFO  HomePage:38 - The website URL is working
+2019-09-07 09:17:35 INFO  HomePage:38 - The website URL is working
+2019-09-07 09:17:49 INFO  techpath:42 - The website URL is working
+2019-09-07 09:17:54 INFO  techpath:58 - My account button is clicked
+2019-09-07 09:17:54 INFO  techpath:66 - Username is inserted
+2019-09-07 09:17:55 INFO  techpath:78 - My account title has matched
+2019-09-07 09:19:12 INFO  HomePage:38 - The website URL is working
+2019-09-07 09:19:25 INFO  techpath:42 - The website URL is working
+2019-09-07 09:19:30 INFO  techpath:58 - My account button is clicked
+2019-09-07 09:19:30 INFO  techpath:66 - Username is inserted
+2019-09-07 09:19:31 ERROR techpath:82 - My account title did not matched
+2019-09-07 09:19:31 INFO  techpath:83 - The title is shown as Account Login
+2019-09-07 10:23:39 INFO  techpath:68 - The website URL is working
+2019-09-07 10:23:43 INFO  techpath:84 - My account button is clicked
+2019-09-07 10:23:44 INFO  techpath:91 - Username is inserted
+2019-09-07 10:23:45 INFO  techpath:103 - My account title has matched
+2019-09-07 10:23:58 INFO  HomePage:41 - The website URL is working
+2019-09-07 11:45:00 INFO  techpath:68 - The website URL is working
+2019-09-07 11:45:05 INFO  techpath:84 - My account button is clicked
+2019-09-07 11:45:06 INFO  techpath:91 - Username is inserted
+2019-09-07 11:45:07 INFO  techpath:103 - My account title has matched
+2019-09-07 11:45:21 INFO  HomePage:41 - The website URL is working
+2019-09-07 14:29:17 INFO  techpath:68 - The website URL is working
+2019-09-07 14:29:22 INFO  techpath:84 - My account button is clicked
+2019-09-07 14:29:22 INFO  techpath:91 - Username is inserted
+2019-09-07 14:29:23 INFO  techpath:103 - My account title has matched
+2019-09-07 14:29:35 INFO  HomePage:41 - The website URL is working
+2019-09-07 14:52:52 INFO  techpath:68 - The website URL is working
+2019-09-07 14:52:56 INFO  techpath:84 - My account button is clicked
+2019-09-07 14:52:56 INFO  techpath:91 - Username is inserted
+2019-09-07 14:52:57 INFO  techpath:103 - My account title has matched
+2019-09-07 14:53:09 INFO  HomePage:41 - The website URL is working
